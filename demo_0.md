@@ -10,5 +10,5 @@ What Should you do if you were stuck while trying to format your Python output t
    * Write an **introduction ot the problem**
    * Provide source code or specific inputs that allow others to **reproduce the problem**
    * **Proofread** your question so that it is easy to read and easy to answer.
-   
+
 3. Keep any eye on your post, **responding to feedback** promptly
